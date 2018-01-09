@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cdpf_example_web:war">
+    <output-path>$PROJECT_DIR$/cdpf_example_web/target</output-path>
+    <root id="archive" name="cdpf_example_web.war">
+      <element id="artifact" artifact-name="cdpf_example_web:war exploded" />
+    </root>
+  </artifact>
+</component>

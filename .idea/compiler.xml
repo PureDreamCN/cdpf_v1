@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cdpf_core" />
+        <module name="cdpf_core_web" />
+        <module name="cdpf_example" />
+        <module name="cdpf_example_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cdpf_core" target="1.8" />
+      <module name="cdpf_core_web" target="1.8" />
+      <module name="cdpf_example" target="1.8" />
+      <module name="cdpf_example_web" target="1.8" />
+      <module name="cdpf_v1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

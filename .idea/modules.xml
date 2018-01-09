@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cdpf_core/cdpf_core.iml" filepath="$PROJECT_DIR$/cdpf_core/cdpf_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdpf_core_web/cdpf_core_web.iml" filepath="$PROJECT_DIR$/cdpf_core_web/cdpf_core_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdpf_example/cdpf_example.iml" filepath="$PROJECT_DIR$/cdpf_example/cdpf_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdpf_example_web/cdpf_example_web.iml" filepath="$PROJECT_DIR$/cdpf_example_web/cdpf_example_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdpf_v1.iml" filepath="$PROJECT_DIR$/cdpf_v1.iml" />
+    </modules>
+  </component>
+</project>
